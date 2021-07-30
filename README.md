@@ -20,7 +20,7 @@
 - Now you can interact with the app on browser
 
 ## Repository Link
-- https://github.com/Hibahasansiddiqui/Recipe-Treasure-App
+- https://github.com/Hibahasansiddiqui/Weather-App
 
 ## Live Link:
-- https://hibahasansiddiqui.github.io/Recipe-Treasure-App/
+- https://hibahasansiddiqui.github.io/Weather-App/
